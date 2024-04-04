@@ -1,3 +1,2 @@
 
-
-stopwatch
+Stopwatch - Using HTML, CSS, Javascript
