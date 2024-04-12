@@ -1,5 +1,4 @@
 
 Stopwatch - Using HTML, CSS, Javascript
 
-
-https://gopi2923.github.io/Stopwatch/
+          https://gopi2923.github.io/Stopwatch/
